@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "P01",
+    "backgroundClass": "firstSlide",
+    "content": "¿Icónica? ¿Minimalista? ¿Imprescindibles? No es fácil definir a P01. Es la historia de Panchic, pero al mismo tiempo, cambia y evoluciona en cada temporada.",
+    "image": "/assets/img/slider/po1.jpg.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "P03",
+    "backgroundClass": "secondSlide",
+    "content": "La línea P03 narra una historia de innovación y espíritu nómada. La suela de forma envolvente está concebida para ofrecer protección y estilo en cualquier condición.",
+    "image": "/assets/img/slider/po3.jpg.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "title": "P05",
+    "backgroundClass": "thirdSlide",
+    "content": "Easy. Quizás una sola palabra clave es poco para describir la P05. Amada por su facilidad de uso, flexibilidad, ligereza, amplia gama de colores y confort excepcional.",
+    "image": "/assets/img/slider/po5.jpg.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 4,
+    "title": "P19",
+    "backgroundClass": "fourSlide",
+    "content": "El adjetivo “deconstruido” no describe solamente la estética de P19 sino que también su estilo relajado y anticonformista Una unión perfecta entre forma e identidad.",
+    "image": "/assets/img/slider/po19.jpg.webp",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 5,
+    "title": "P23",
+    "backgroundClass": "fiveSlide",
+    "content": "P23 probablemente es uno de los modelos más pop y refinados al mismo tiempo de la marca Panchic. Su estilo se reconoce inmediatamente y los detalles son siempre diferentes.",
+    "image": "/assets/img/slider/po23.jpg.webp",
+    "url": "/shop-grid-standard"
+  }
+]
