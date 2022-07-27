@@ -1,0 +1,2 @@
+# cuoa
+Cuoa (panchic) project
